@@ -1,0 +1,1 @@
+A web application that allows users to convert between different currencies using real-time exchange rates. This project was built to [mention your motivation, e.g., practice a specific technology or create a useful tool].
